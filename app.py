@@ -44,7 +44,7 @@ links = [
         "logo": "/static/logo.png"
     },
     {
-        "name": "哲学大师",
+        "name": "大师",
         "url": "https://chat.openai.com/g/g-UAR3CJ1uo-42master-pythontutor/c/b9c8a2fe-aa5a-427f-a76e-2dd44e8ceefc",
         "description": "当我们在讨论哲学时",
         "category": "编程",
