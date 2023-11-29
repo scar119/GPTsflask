@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for flaskapp on 2023-11-29T22:06:49+08:00
+# fly.toml app configuration file generated for flaskapp12 on 2023-11-30T00:16:53+08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "flaskapp"
+app = "flaskapp12"
 primary_region = "nrt"
 
 [build]
