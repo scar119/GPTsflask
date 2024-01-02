@@ -97,6 +97,15 @@ links = [
         "weight":6
     },
     {
+        "name": "产品经理顾问",
+        "url": "https://chat.openai.com/g/g-8AEePYe1L-chan-pin-jing-li-gu-wen",
+        "description": "设计产品没有思路了？来问问我",
+        "category": "职业",
+        "category_weight":10,
+        "logo": "/static/chanpin.png",
+        "weight":6
+    },
+    {
         "name": "生活教练",
         "url": "https://chat.openai.com/g/g-YpxL3kZ9S-sheng-huo-jiao-lian",
         "description": "一位富有同情心的生活教练，为平衡和成功提供指导。",
