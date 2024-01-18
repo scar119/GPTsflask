@@ -15,15 +15,7 @@ CORS(app)
 # ]
 
 links = [
-    {
-        "name": "python大师",
-        "url": "https://chat.openai.com/g/g-UAR3CJ1uo-42master-pythontutor",
-        "description": "Python初学者到高级工程师的学习导师",
-        "category": "编程",
-        "category_weight":10,  # 分组权重
-        "logo": "/static/python.png",
-        "weight":76
-     },
+ 
     {
         "name": "Strategic Insight AI战略洞察",
         "url": "https://chat.openai.com/g/g-9X1D8otzy-strategic-insight-ai",
